@@ -20,7 +20,7 @@ Our solution is a mobile interface for parkers on-the-go.
 
 Try the prototype yourself! 
 
-![Mockups](https://drive.google.com/file/d/0B9n4OlGk9eGrLVBERlhocFEtcUU/view?usp=sharing)
+![Mockups](mockups/mockups.png)
 
 
 
