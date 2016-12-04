@@ -1,10 +1,10 @@
 # A New Parking Meter Payment UI
 
 ## The Problem
-#### Inneficient 
+#### Inneficient
 Paying for parking is an inefficient process that requires manually feeding coins into the parking meter one by one. 
 
-#### Payment methods
+#### Outdated payment methods
 Paying for parking with coins is a major pain point for parking meter users. 
 
 #### Incremental Time Added Model
