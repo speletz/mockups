@@ -20,8 +20,7 @@ Our solution is a mobile interface for parkers on-the-go.
 
 Try the prototype yourself! 
 
-[[mockups/mockups.png]]
-
+![](https://github.com/speletz/mockups/blob/master/mockups.png)
 
 
 Designed by Sara, Jared, Noah, and Will
