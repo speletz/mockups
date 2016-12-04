@@ -1,6 +1,6 @@
 {
   "name": "Mockups",
   "tagline": "",
-  "body": "### Mockups\r\n\r\n\r\n\r\n\r\nDesigned by Sara, Jared, Will, and Noah",
+  "body": "# A New Parking Meter Payment UI\r\nHow paying for parking should be\r\n\r\n### The Problem\r\nPaying for parking is inefficient, ... \r\n\r\n#### Payment methods\r\nPaying for parking with coins is a major pain point for parking meter users. \r\n\r\n#### Incremental Time Added Model\r\n\r\n\r\n### Our Proposal\r\nWe chose to design a smartphone interface for startup MeterFeeder. MeterFeeder is used to bring parking meter payments to mobile, in an attempt to fix the outdated parking system. Out interface facilitates the payment process, which starts when the user parks one's car and ends when a user has paid for their parking spot and leaves their spot. \r\n\r\nDebit and credit cards will be the form of payment in our app. By diverging from the traditional incremental time added model, we are able to implement a simpler start/stop parking system. Through a mobile app, we are also able to make a history of parking transactions accessible, which would be beneficial upon receiving an unwarranted parking ticket. \r\n\r\n#### Mobile\r\nOur solution is a mobile interface for parkers on-the-go. \r\n\r\nTry the prototype yourself! \r\n\r\n![Mockups](https://github.com/speletz/mockups/blob/master/mockups.png)\r\n\r\n\r\n\r\nDesigned by Sara, Jared, Noah, and Will\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
