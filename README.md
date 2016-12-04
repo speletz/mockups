@@ -20,7 +20,7 @@ Our solution is a mobile interface for parkers on-the-go.
 
 Try the prototype yourself! 
 
-![Mockups](mockups/mockups.png)
+[[mockups/mockups.png]]
 
 
 
